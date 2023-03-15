@@ -9398,7 +9398,13 @@ Error generating stack: ` +
       },
       {
         name: "Display 4",
-        files: ["institucional.mp4", "site.jpg"],
+        files: [
+          "institucional.mp4",
+          "site.jpg",
+          "hospitalares.mp4",
+          "piscinas.mp4",
+          "potes.mp4",
+        ],
         src: "../content/",
       },
     ],
